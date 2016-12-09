@@ -1,0 +1,22 @@
+body{
+	font-family: 'Playfair Display', serif;
+}
+header {
+	background: red;
+	color:#fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+p{
+	font-size: 14px;
+	margin-top: 15px
+}
+footer {
+	background: red;
+	color:#fff;
+	width: ;
+	right: ;
+}
+
+#miCarousel{
+}
